@@ -26,12 +26,13 @@ Durante esse período, estarei estudando, praticando e compartilhando tudo que a
 
 ## 📅 Progresso
 
-| Dia | Tópico / Projeto | Status |
-|-----|------------------|--------|
-| 01  | Configuração do ambiente + Hello World | ✅ |
-| 02  | Variáveis, Tipos Primitivos e Operadores | 🔄 |
-| ... | ... | ... |
-| 100 | Projeto final com Java + Spring Boot | 🔜 |
+| Dia | Tópico / Projeto | Status | Link |
+|-----|------------------|--------|------|
+| 01  | Configuração do ambiente + Hello World | ✅ | [Ver dia 01](./dia01/README.md) |
+| 02  | Variáveis, Tipos Primitivos, Strings e Condicionais | ✅ | [Ver dia 02](./dia02/README.md) |
+| 03  | Em breve... | 🔄 | - |
+| ... | ... | ... | ... |
+| 100 | Projeto final com Java + Spring Boot | 🔜 | - |
 
 > Atualizo essa tabela conforme avanço!
 
